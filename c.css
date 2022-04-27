@@ -1,0 +1,36 @@
+
+ body{
+     background-color: black;
+ }
+ h1{
+     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+     font-family: ;
+     font-size: 50px;
+     color: wheat;
+     padding: 5px;
+}
+.b{
+    margin-right: 10px;
+}
+.i{
+    margin-top: 4px;
+    margin-right: 10px;
+}
+.video{
+    margin-right:90px;
+    margin-top:0px;
+    margin-left: 90px;
+    border: rgb(145, 60, 45) 15px outset;}
+    .information{
+        padding: 940px;
+        font-size: large;
+        font-style: inherit;
+    }
+    .information:hover{
+        font-size: 30px;
+        color: wheat;
+    }
+    .i:hover{
+        opacity: 1;
+        back
+    }
